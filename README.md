@@ -1,1 +1,1 @@
-https://vite-project-9e558.web.app/login
+https://vite-project-9e558.web.app
